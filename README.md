@@ -1,5 +1,5 @@
 # Twitter-Stream-Listener
-Collecting real time twitters in Python
+Collecting real time tweets in Python
 
 # Tutoriales
 
