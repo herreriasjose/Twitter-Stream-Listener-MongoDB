@@ -7,7 +7,7 @@ from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 
 
-# You have to change the following keys
+# You need to change the following information
 
 API_KEY = "CNTE4qBEPNdummyMhDx1lReh" # Consumer Key (API Key)
 API_SECRET = "9XdummyDzix4CNTE4qBEPN" # Consumer Secret (API Secret)
